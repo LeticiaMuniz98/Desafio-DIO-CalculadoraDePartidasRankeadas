@@ -1,6 +1,6 @@
-let nomeHeroi = "Gil"
-let vitorias = 200
-let derrotas = 60
+let nomeHeroi = "Gil";
+let vitorias = 200;
+let derrotas = 60;
 let saldoHeroi = calcularSaldoHeroi(vitorias, derrotas)
 let resultado = raquearNivelHeroi(vitorias,derrotas)
 
